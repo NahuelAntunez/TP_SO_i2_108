@@ -1,0 +1,7 @@
+Repuestas
+Antunez Nahuel
+Aguirre Antonio
+Sosa Stillante Guido
+
+c- No, ya que el repositorio que se forkeo es el de beta, por lo cual si gamma quiere actualizar su repositorio solo puede hacerlo al de beta.
+d- Si, se pierden los datos, ya que con la actualizacion lo que se hace es copiar el repositorio de origen y los datos dentro. 
